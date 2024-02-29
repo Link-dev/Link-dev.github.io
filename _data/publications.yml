@@ -1,14 +1,14 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: Unequal impact of climate warming on meat yields of global cattle farming
+    authors: Weihang Liu*, <strong>Junxiong Zhou</strong>, Yuchi Ma, Shuo Chen, Yuchuan Luo (*Corresponding authors)
+    conference_short: CEE
+    conference: Communications Earth & Environment <strong>(MICCAI)</strong>, 2024.
+    link: https://www.nature.com/articles/s43247-024-01232-x
+    #code: https://github.com/MrGiovanni/ContinualLearning
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/Cattle yield.png
+    #notes: Early Accept
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
