@@ -4,7 +4,7 @@ main:
     authors: Weihang Liu*, <strong>Junxiong Zhou</strong>, Yuchi Ma, Shuo Chen, Yuchuan Luo (*Corresponding authors)
     conference_short: CEE
     conference: Communications Earth & Environment, 2024.
-    link: https://www.nature.com/articles/s43247-024-01232-x
+    pdf: https://www.nature.com/articles/s43247-024-01232-x
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/Cattle yield.png
@@ -14,7 +14,7 @@ main:
     authors: Qi Yang, Licheng Liu, <strong>Junxiong Zhou</strong>, Rahul Ghosh, Bin Peng, Kaiyu Guan, Jinyun Tang, Wang Zhou, Vipin Kumar, Zhenong Jin* (*Corresponding authors)
     conference_short: RSE
     conference: Remote sensing of Environment, 2024.
-    link: https://www.sciencedirect.com/science/article/abs/pii/S0034425723004315
+    pdf: https://www.sciencedirect.com/science/article/abs/pii/S0034425723004315
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/KGML-DA.jpg
@@ -24,7 +24,7 @@ main:
     authors: <strong>Junxiong Zhou</strong>, Qi Yang, Licheng Liu, Yanghui Kang, Xiaowei Jia, Min Chen, Rahul Ghosh, Shaomin Xu, Chongya Jiang, Kaiyu Guan, Zhenong Jin* (*Corresponding authors)
     conference_short: ISPRS
     conference: ISPRS Journal of Photogrammetry and Remote Sensing, 2023.
-    link: https://www.sciencedirect.com/science/article/abs/pii/S0924271623002927
+    pdf: https://www.sciencedirect.com/science/article/abs/pii/S0924271623002927
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/ISPRS-transfer learning.jpg
