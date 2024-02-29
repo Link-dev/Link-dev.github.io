@@ -15,14 +15,15 @@ I am a Ph.D. student at University of Minnesota Twin Cities.
 ## Research Interests
 
 - **Knowledge-guided machine learning:** transfer learning, data assimilation
+- **Climate change adaptation:** climate warming, crop yield
+- **Geomorphology:** climate warming, crop yield
 - **Satellite image processing:** data fusion, image classification
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Feb. 2024]** Our paper about climate warming impacts on cattle meat yields is published to Communications Earth & Environment 2024.
+- **[Dec. 2023]** Our paper about KGML-DA is published to Remote Sensing of Environment 2023.
+- **[Dec. 2023]** Our paper about transfer learning is published to ISPRS Journal of Photogrammetry and Remote Sensing 2023.
 
 {% include_relative _includes/publications.md %}
 
