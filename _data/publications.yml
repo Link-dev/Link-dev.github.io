@@ -39,13 +39,3 @@ main:
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/SRS-2021.jpg
     #notes: Early Accept
-
-  - title: Sensitivity of six typical spatiotemporal fusion methods to different influential factors: A comparative study for a normalized difference vegetation index time series reconstruction
-    authors: <strong>Junxiong Zhou</strong>, Jin Chen, Xuehong Chen*, Xiaolin Zhu, Yuean Qiu, Huihui Song, Yunhan Rao, Chishan Zhang, Xin Cao, Xihong Cui
-    conference_short: RSE
-    conference: Remote Sensing of Environment, 2021.
-    pdf: https://www.sciencedirect.com/science/article/abs/pii/S0034425720305034
-    #code: https://github.com/MrGiovanni/ContinualLearning
-    #bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/RSE-2021.jpg
-    #notes: Early Accept
