@@ -13,7 +13,7 @@ main:
   - title: A flexible and efficient knowledge-guided machine learning data assimilation (KGML-DA) framework for agroecosystem prediction in the US Midwest
     authors: Qi Yang, Licheng Liu, <strong>Junxiong Zhou</strong>, Rahul Ghosh, Bin Peng, Kaiyu Guan, Jinyun Tang, Wang Zhou, Vipin Kumar, Zhenong Jin*
     conference_short: RSE
-    conference: Remote sensing of Environment, 2024.
+    conference: Remote sensing of Environment, 2023.
     pdf: https://www.sciencedirect.com/science/article/abs/pii/S0034425723004315
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
