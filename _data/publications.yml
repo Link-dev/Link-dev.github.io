@@ -37,7 +37,7 @@ main:
     pdf: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022WR032338
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/WRR-2022.jpg
+    image: ./assets/img/WRR-2022.png
     #notes: Early Accept
 
   - title: A novel framework to assess all-round performances of spatiotemporal fusion models
@@ -47,7 +47,7 @@ main:
     pdf: https://www.sciencedirect.com/science/article/pii/S003442572200116X
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/RSE-2022.jpg
+    image: ./assets/img/RSE-2022.png
     #notes: Early Accept
 
   - title: Sensitivity of six typical spatiotemporal fusion methods to different influential factors A comparative study for a normalized difference vegetation index time series reconstruction
