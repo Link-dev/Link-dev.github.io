@@ -35,7 +35,7 @@ main:
     conference_short: SRS
     conference: Science of Remote Sensing, 2021.
     pdf: https://www.sciencedirect.com/science/article/pii/S2666017221000201
-    #code: https://github.com/MrGiovanni/ContinualLearning
+    #code: https://github.com/MrGiovanni/ContinualLearning 
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/SRS-2021.jpg
     #notes: Early Accept
