@@ -21,9 +21,9 @@ I am a Ph.D. student at University of Minnesota Twin Cities.
 
 ## News
 
-- **[Feb. 2024]** Our paper about climate warming impacts on cattle meat yields is published to Communications Earth & Environment 2024.
-- **[Dec. 2023]** Our paper about KGML-DA is published to Remote Sensing of Environment 2023.
-- **[Dec. 2023]** Our paper about transfer learning is published to ISPRS Journal of Photogrammetry and Remote Sensing 2023.
+- **[Feb. 2024]** Our paper about climate warming impacts on cattle meat yields is published to Communications Earth & Environment.
+- **[Dec. 2023]** Our paper about KGML-DA is published to Remote Sensing of Environment.
+- **[Dec. 2023]** Our paper about transfer learning is published to ISPRS Journal of Photogrammetry and Remote Sensing.
 
 {% include_relative _includes/publications.md %}
 
