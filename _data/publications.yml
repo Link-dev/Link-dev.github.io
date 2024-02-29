@@ -43,7 +43,7 @@ main:
   - title: A novel framework to assess all-round performances of spatiotemporal fusion models
     authors: Xiaolin Zhu, Wenfeng Zhan, <strong>Junxiong Zhou</strong>, Zicong Liang, SHuai Xu, Jin Chen
     conference_short: RSE
-    conference: Remote Sensing of Environment, 2021.
+    conference: Remote Sensing of Environment, 2022.
     pdf: https://www.sciencedirect.com/science/article/pii/S003442572200116X
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
