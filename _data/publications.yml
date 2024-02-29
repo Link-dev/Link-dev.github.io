@@ -3,20 +3,29 @@ main:
   - title: Unequal impact of climate warming on meat yields of global cattle farming
     authors: Weihang Liu*, <strong>Junxiong Zhou</strong>, Yuchi Ma, Shuo Chen, Yuchuan Luo (*Corresponding authors)
     conference_short: CEE
-    conference: Communications Earth & Environment <strong>(MICCAI)</strong>, 2024.
+    conference: Communications Earth & Environment, 2024.
     link: https://www.nature.com/articles/s43247-024-01232-x
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/Cattle yield.png
     #notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: A flexible and efficient knowledge-guided machine learning data assimilation (KGML-DA) framework for agroecosystem prediction in the US Midwest
+    authors: Qi Yang, Licheng Liu, <strong>Junxiong Zhou</strong>, Rahul Ghosh, Bin Peng, Kaiyu Guan, Jinyun Tang, Wang Zhou, Vipin Kumar, Zhenong Jin* (*Corresponding authors)
+    conference_short: RSE
+    conference: Remote sensing of Environment, 2024.
+    link: https://www.sciencedirect.com/science/article/abs/pii/S0034425723004315
+    #code: https://github.com/MrGiovanni/ContinualLearning
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/KGML-DA.jpg
+    #notes: Early Accept
+
+  - title: A deep transfer learning framework for mapping high spatiotemporal resolution LAI
+    authors: <strong>Junxiong Zhou</strong>, Qi Yang, Licheng Liu, Yanghui Kang, Xiaowei Jia, Min Chen, Rahul Ghosh, Shaomin Xu, Chongya Jiang, Kaiyu Guan, Zhenong Jin* (*Corresponding authors)
+    conference_short: ISPRS
+    conference: ISPRS Journal of Photogrammetry and Remote Sensing, 2023.
+    link: https://www.sciencedirect.com/science/article/abs/pii/S0924271623002927
+    #code: https://github.com/MrGiovanni/ContinualLearning
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/ISPRS-transfer learning.jpg
+    #notes: Early Accept
