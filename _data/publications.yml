@@ -11,7 +11,7 @@ main:
     #notes: Early Accept
 
   - title: A flexible and efficient knowledge-guided machine learning data assimilation (KGML-DA) framework for agroecosystem prediction in the US Midwest
-    authors: Qi Yang, Licheng Liu, <strong>Junxiong Zhou</strong>, Rahul Ghosh, Bin Peng, Kaiyu Guan, Jinyun Tang, Wang Zhou, Vipin Kumar, Zhenong Jin* (*Corresponding authors)
+    authors: Qi Yang, Licheng Liu, <strong>Junxiong Zhou</strong>, Rahul Ghosh, Bin Peng, Kaiyu Guan, Jinyun Tang, Wang Zhou, Vipin Kumar, Zhenong Jin*
     conference_short: RSE
     conference: Remote sensing of Environment, 2024.
     pdf: https://www.sciencedirect.com/science/article/abs/pii/S0034425723004315
@@ -21,7 +21,7 @@ main:
     #notes: Early Accept
 
   - title: A deep transfer learning framework for mapping high spatiotemporal resolution LAI
-    authors: <strong>Junxiong Zhou</strong>, Qi Yang, Licheng Liu, Yanghui Kang, Xiaowei Jia, Min Chen, Rahul Ghosh, Shaomin Xu, Chongya Jiang, Kaiyu Guan, Zhenong Jin* (*Corresponding authors)
+    authors: <strong>Junxiong Zhou</strong>, Qi Yang, Licheng Liu, Yanghui Kang, Xiaowei Jia, Min Chen, Rahul Ghosh, Shaomin Xu, Chongya Jiang, Kaiyu Guan, Zhenong Jin*
     conference_short: ISPRS
     conference: ISPRS Journal of Photogrammetry and Remote Sensing, 2023.
     pdf: https://www.sciencedirect.com/science/article/abs/pii/S0924271623002927
