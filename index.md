@@ -4,12 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student at University of Minnesota Twin Cities.
+
+## Education
+
+- **2021-present:** PhD Candidate, Univrsity of Minnesota
+- **2018-2021:** M.Sc., Beijing Normal University
+- **2014-2018:** B.E., China University of Geoscience
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Knowledge-guided machine learning:** transfer learning, data assimilation
+- **Satellite image processing:** data fusion, image classification
 
 ## News
 
