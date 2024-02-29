@@ -8,7 +8,7 @@ I am a Ph.D. student at University of Minnesota Twin Cities.
 
 ## Education
 
-- **2021-present:** PhD Candidate, Univrsity of Minnesota
+- **2021-present:** Ph.D. Candidate, Univrsity of Minnesota
 - **2018-2021:** M.Sc., Beijing Normal University
 - **2014-2018:** B.E., China University of Geoscience
 
@@ -16,8 +16,8 @@ I am a Ph.D. student at University of Minnesota Twin Cities.
 
 - **Knowledge-guided machine learning:** transfer learning, data assimilation
 - **Climate change adaptation:** climate warming, crop yield
-- **Geomorphology:** climate warming, crop yield
 - **Satellite image processing:** data fusion, image classification
+- **Geomorphology:** River, dam, sediment
 
 ## News
 
