@@ -10,7 +10,7 @@ I am a Ph.D. student at University of Minnesota Twin Cities.
 
 - **2021-present:** Ph.D. Candidate, University of Minnesota
 - **2018-2021:** M.Sc., Beijing Normal University
-- **2014-2018:** B.E., China University of Geoscience
+- **2014-2018:** B.E., China University of Geosciences
 
 ## Research Interests
 
