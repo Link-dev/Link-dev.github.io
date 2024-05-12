@@ -28,3 +28,5 @@ I am a Ph.D. student at University of Minnesota Twin Cities. I have experience i
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+{% include_relative _includes/skills.md %}
