@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at University of Minnesota Twin Cities. I have experience in remote sensing image processing, including image fusion and classification. I am currently working on analyzing the impacts of climate changes on crop yields and Knowledge-guided machine learning for vegetation parameter retrieval. I received the B.E. degree from China University of Geosciences in 2018, and the M.S. degree from Beijing Normal University in 2021.
+I am a Ph.D. student at University of Minnesota Twin Cities. I have experience in remote sensing image processing, including image fusion and classification. I am currently working on analyzing the impacts of climate changes on crop yields and Knowledge-guided machine learning for vegetation parameter retrieval.
 
 ## Education
 
