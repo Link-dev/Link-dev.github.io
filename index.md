@@ -27,6 +27,7 @@ I am a Ph.D. student at University of Minnesota Twin Cities. I have experience i
 
 {% include_relative _includes/publications.md %}
 
+<<<<<<< HEAD
 ## Coauthor papers
 
 [2] Qiu Y, Zhou J, Chen J, & Chen X. (2021). Spatiotemporal fusion method to simultaneously generate full-length normalized difference vegetation index time series (SSFIT). International Journal of Applied Earth Observation and Geoinformation, 100, 102333.
@@ -34,6 +35,8 @@ I am a Ph.D. student at University of Minnesota Twin Cities. I have experience i
 
 #{% include_relative _includes/coauthor.md %}
 
+=======
+>>>>>>> parent of 698449b (Update publications)
 {% include_relative _includes/services.md %}
 
 {% include_relative _includes/skills.md %}
