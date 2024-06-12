@@ -19,3 +19,13 @@ main:
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/RSE-2021.jpg
     #notes: Early Accept
+ 
+   - title: A geometric misregistration resistant data fusion approach for adding red-edge (RE) and short-wave infrared (SWIR) bands to high spatial resolution imagery
+    authors: <strong>Zhou J</strong>, Qiu Y, Chen J*, Chen X
+    conference_short: SRS
+    conference: Science of Remote Sensing, 2021.
+    pdf: https://www.sciencedirect.com/science/article/abs/pii/S0034425720305034
+    #code: https://github.com/MrGiovanni/ContinualLearning
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/SRS-2021.jpg
+    #notes: Early Accept
