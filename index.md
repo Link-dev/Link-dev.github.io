@@ -32,7 +32,7 @@ I am a Ph.D. student at University of Minnesota Twin Cities. I have experience i
 ## Selected Coauthor Publications
 
 <p style="text-align: justify;">
-[11] Hu Y, Li D, Deng J, Yue Y, **Zhou J**, ... & Li Y. (2024). Dune Development Dominates Flow Re-sistance Increase in a Large Dammed River. Water Resources Research, 60(4), e2023WR036660.<br />
+[11] Hu Y, Li D, Deng J, Yue Y, **Zhou J**, ... & Li Y. (2024). Dune Development Dominates Flow Resistance Increase in a Large Dammed River. Water Resources Research, 60(4), e2023WR036660.<br />
 [10] Yang Q, Liu L, **Zhou J**, Rogers M, & Jin Z. (2024). Predicting the growth trajectory and yield of greenhouse strawberries based on knowledge-guided computer vision. Computers and Electronics in Agriculture, 220, 108911.<br />
 [9] Liu W, **Zhou J**, Ma Y, Chen S, & Luo Y. (2024). Unequal impact of climate warming on meat yields of global cat-tle farming. Communications Earth & Environment, 5(1), 65.<br />
 [8] Zhou Z, Zhang C, Zou X, Zhang X, Zuo X, Zhang Z, **Zhou J**, & Cao Z. (2024). Estimating lateral cover of veg-etation and gravel using NDVI and albedo. CATENA, 239, 107899.<br />
