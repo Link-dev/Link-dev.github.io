@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-<p style="text-align: center;">
+<p style="text-align: right;">
 I am a Ph.D. student at University of Minnesota Twin Cities. I have experience in remote sensing image processing, including image fusion and classification. I am currently working on analyzing the impacts of climate changes on crop yields and Knowledge-guided machine learning for vegetation parameter retrieval.
 </p>
 
@@ -31,6 +31,7 @@ I am a Ph.D. student at University of Minnesota Twin Cities. I have experience i
 
 ## Coauthor publications
 
+<p style="text-align: right;">
 [16] Bai Y, Liu M, **Zhou J**, Guo Q, Wu G, & Li S. (2024). Diverse responses of surface biogeophysical parameters to accelerated development and senescence of vegetation on the Mongolian Plateau. Science of The Total Environment, 173727.<br />
 [15] Hu Y, Li D, Deng J, Yue Y, **Zhou J**, ... & Li Y. (2024). Dune Development Dominates Flow Re-sistance Increase in a Large Dammed River. Water Resources Research, 60(4), e2023WR036660.<br />
 [14] Yang Q, Liu L, **Zhou J**, Rogers M, & Jin Z. (2024). Predicting the growth trajectory and yield of greenhouse strawberries based on knowledge-guided computer vision. Computers and Electronics in Agriculture, 220, 108911.<br />
@@ -47,6 +48,7 @@ I am a Ph.D. student at University of Minnesota Twin Cities. I have experience i
 [3] Zhou X, **Zhou J**, Xie Q, Zhang Z, Chen Q, & Liu X. (2022). Detection of Soil Freeze/Thaw States at a High Spa-tial Resolution in Qinghai-Tibet Engineering Corridor. IEEE Geoscience and Remote Sensing Letters, 19, 1-5.<br />
 [2] Qiu Y, **Zhou J**, Chen J, & Chen X. (2021). Spatiotemporal fusion method to simultaneously generate full-length normalized difference vegetation index time series (SSFIT). International Journal of Applied Earth Observation and Geoinformation, 100, 102333.<br />
 [1] Cui X, Quan Z, Chen X, Zhang Z., **Zhou J**, Liu X., ... & Guo L. (2021). GPR-based automatic identification of root zones of influence using HDBSCAN. Remote Sensing, 13(6), 1227.
+</p>
 
 {% include_relative _includes/services.md %}
 
