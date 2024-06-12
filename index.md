@@ -29,7 +29,7 @@ I am a Ph.D. student at University of Minnesota Twin Cities. I have experience i
 
 ## Coauthor publications
 
-[16] Bai Y, Liu M, **Zhou J**, Guo Q, Wu G, & Li S. (2024). Diverse responses of surface biogeophysical parameters to accelerated development and senescence of vegetation on the Mongolian Plateau. Science of The Total Environment, 173727.__
+[16] Bai Y, Liu M, **Zhou J**, Guo Q, Wu G, & Li S. (2024). Diverse responses of surface biogeophysical parameters to accelerated development and senescence of vegetation on the Mongolian Plateau. Science of The Total Environment, 173727. <br />
 [15] Hu Y, Li D, Deng J, Yue Y, **Zhou J**, ... & Li Y. (2024). Dune Development Dominates Flow Re-sistance Increase in a Large Dammed River. Water Resources Research, 60(4), e2023WR036660.__
 [14] Yang Q, Liu L, **Zhou J**, Rogers M, & Jin Z. (2024). Predicting the growth trajectory and yield of greenhouse strawberries based on knowledge-guided computer vision. Computers and Electronics in Agriculture, 220, 108911.__
 [13] Liu W, **Zhou J**, Ma Y, Chen S, & Luo Y. (2024). Unequal impact of climate warming on meat yields of global cat-tle farming. Communications Earth & Environment, 5(1), 65.__
@@ -44,7 +44,7 @@ I am a Ph.D. student at University of Minnesota Twin Cities. I have experience i
 [4] Liu S, **Zhou J**, Qiu Y, Chen J, Zhu X, & Chen H. (2022). The FIRST model: Spatiotemporal fusion incorporating spectral information autocorrelation. Remote sensing of Environment, 279, 113111. __
 [3] Zhou X, **Zhou J**, Xie Q, Zhang Z, Chen Q, & Liu X. (2022). Detection of Soil Freeze/Thaw States at a High Spa-tial Resolution in Qinghai-Tibet Engineering Corridor. IEEE Geoscience and Remote Sensing Letters, 19, 1-5. __
 [2] Qiu Y, **Zhou J**, Chen J, & Chen X. (2021). Spatiotemporal fusion method to simultaneously generate full-length normalized difference vegetation index time series (SSFIT). International Journal of Applied Earth Observation and Geoinformation, 100, 102333. __
-[1] Cui X, Quan Z, Chen X, Zhang Z., **Zhou J**, Liu, X., ... & Guo L. (2021). GPR-based automatic identification of root zones of influence using HDBSCAN. Remote Sensing, 13(6), 1227.
+[1] Cui X, Quan Z, Chen X, Zhang Z., **Zhou J**, Liu X., ... & Guo L. (2021). GPR-based automatic identification of root zones of influence using HDBSCAN. Remote Sensing, 13(6), 1227.
 
 {% include_relative _includes/services.md %}
 
