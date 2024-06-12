@@ -1,6 +1,6 @@
 main:
 
-  - title: A deep transfer learning framework for mapping high spatiotemporal resolution LAI
+  - title: <p style="text-align: justify;">A deep transfer learning framework for mapping high spatiotemporal resolution LAI</p>
     authors: <strong>Zhou J</strong>, Yang Q, Liu L, Kang Y, Jia X, Chen M, Ghosh R, Xu S, Jiang C, Guan K, Kumar V, Jin Z*
     conference_short: ISPRS
     conference: ISPRS Journal of Photogrammetry and Remote Sensing, 2023.
@@ -10,7 +10,7 @@ main:
     image: ./assets/img/ISPRS-transfer learning.jpg
     #notes: Early Accept
 
-  - title: Sensitivity of six typical spatiotemporal fusion methods to different influential factors A comparative study for a normalized difference vegetation index time series reconstruction
+  - title: <p style="text-align: justify;">Sensitivity of six typical spatiotemporal fusion methods to different influential factors A comparative study for a normalized difference vegetation index time series reconstruction</p>
     authors: <strong>Zhou J</strong>, Chen J, Chen X*, Zhu X, Qiu Y, Song H, Rao Y, Zhang C, Cao X, Cui X
     conference_short: RSE
     conference: Remote Sensing of Environment, 2021.
@@ -20,7 +20,7 @@ main:
     image: ./assets/img/RSE-2021.jpg
     #notes: Early Accept
  
-  - title: A geometric misregistration resistant data fusion approach for adding red-edge (RE) and short-wave infrared (SWIR) bands to high spatial resolution imagery
+  - title: <p style="text-align: justify;">A geometric misregistration resistant data fusion approach for adding red-edge (RE) and short-wave infrared (SWIR) bands to high spatial resolution imagery</p>
     authors: <strong>Zhou J</strong>, Qiu Y, Chen J*, Chen X
     conference_short: SRS
     conference: Science of Remote Sensing, 2021.
