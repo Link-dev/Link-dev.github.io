@@ -1,25 +1,5 @@
 main:
 
- # - title: Unequal impact of climate warming on meat yields of global cattle farming
- #   authors: Liu W*, <strong>Zhou J</strong>, Ma Y, Chen S, Luo Y (*Corresponding authors)
- #   conference_short: CEE
- #   conference: Communications Earth & Environment, 2024.
- #   pdf: https://www.nature.com/articles/s43247-024-01232-x
-    #code: https://github.com/MrGiovanni/ContinualLearning
-    #bibtex: https://bib.yliu.me/MICCAI23.txt
- #   image: ./assets/img/Cattle yield.png
-    #notes: Early Accept
-
- # - title: A flexible and efficient knowledge-guided machine learning data assimilation (KGML-DA) framework for agroecosystem prediction in the US Midwest
- #   authors: Yang Q, Liu L, <strong>Zhou J</strong>, Ghosh R, Peng B, Guan K, Tang J, Zhou W, Kumar V, Jin Z*
- #   conference_short: RSE
- #   conference: Remote Sensing of Environment, 2023.
- #   pdf: https://www.sciencedirect.com/science/article/abs/pii/S0034425723004315
-    #code: https://github.com/MrGiovanni/ContinualLearning
-    #bibtex: https://bib.yliu.me/MICCAI23.txt
- #   image: ./assets/img/KGML-DA.jpg
-    #notes: Early Accept
-
   - title: A deep transfer learning framework for mapping high spatiotemporal resolution LAI
     authors: <strong>Zhou J</strong>, Yang Q, Liu L, Kang Y, Jia X, Chen M, Ghosh R, Xu S, Jiang C, Guan K, Kumar V, Jin Z*
     conference_short: ISPRS
@@ -28,26 +8,6 @@ main:
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/ISPRS-transfer learning.jpg
-    #notes: Early Accept
-
- # - title: Mechanisms Controlling Water‐Level Variations in the Middle Yangtze River Following the Operation of the Three Gorges Dam
- #   authors: Hu Y, Li D, Deng J*, Yue Y, <strong>Zhou J</strong>, Chai Y, Li Y
- #   conference_short: WRR
- #   conference: Water Resources Research, 2022.
- #   pdf: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022WR032338
-    #code: https://github.com/MrGiovanni/ContinualLearning
-    #bibtex: https://bib.yliu.me/MICCAI23.txt
- #   image: ./assets/img/WRR-2022.png
-    #notes: Early Accept
-
- # - title: A novel framework to assess all-round performances of spatiotemporal fusion models
- #   authors: Zhu X, Zhan W, <strong>Zhou J</strong>, Liang Z, Xu S, Chen J*
- #   conference_short: RSE
- #   conference: Remote Sensing of Environment, 2022.
- #   pdf: https://www.sciencedirect.com/science/article/pii/S003442572200116X
-    #code: https://github.com/MrGiovanni/ContinualLearning
-    #bibtex: https://bib.yliu.me/MICCAI23.txt
- #   image: ./assets/img/RSE-2022.png
     #notes: Early Accept
 
   - title: Sensitivity of six typical spatiotemporal fusion methods to different influential factors A comparative study for a normalized difference vegetation index time series reconstruction

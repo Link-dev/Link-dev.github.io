@@ -1,6 +1,7 @@
 ## Coauthor papers
 
 <ul style="margin:0 0 20px;">
+  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0168192323003404"><autocolor>Agronomy Journal</autocolor></a>
   <a href="https://www.mdpi.com/2072-4292/15/9/2324"><autocolor>[6] Hu Y, Zhou J, Deng J, Li Y, Yang C, & Li D. (2023). River Bars and Vegetation Dynamics in Response to Up-stream Damming: A Case Study of the Middle Yangtze River. Remote Sensing, 15(9), 2324</autocolor></a>
   <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022WR032338"><autocolor>[5] Hu Y, Li D, Deng J, Yue Y, Zhou J, Chai Y, & Li Y. (2022). Mechanisms Controlling Water‐Level Variations in the Middle Yangtze River Following the Operation of the Three Gorges Dam. Water Resources Research, 58(10), e2022WR032338</autocolor></a>
   <a href="https://www.sciencedirect.com/science/article/abs/pii/S0034425722002255"><autocolor>[4]Liu S, Zhou J, Qiu Y, Chen J, Zhu X, & Chen H. (2022). The FIRST model: Spatiotemporal fusion incorporating spectral information autocorrelation. Remote sensing of Environment, 279, 113111</autocolor></a>
