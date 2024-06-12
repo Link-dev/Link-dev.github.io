@@ -27,6 +27,10 @@ I am a Ph.D. student at University of Minnesota Twin Cities. I have experience i
 
 {% include_relative _includes/publications.md %}
 
+## Coauthor publications
+[2] Qiu Y, **Zhou J**, Chen J, & Chen X. (2021). Spatiotemporal fusion method to simultaneously generate full-length normalized difference vegetation index time series (SSFIT). International Journal of Applied Earth Observation and Geoinformation, 100, 102333.
+[1] Cui X, Quan Z, Chen X, Zhang Z., **Zhou J**, Liu, X., ... & Guo L. (2021). GPR-based automatic identification of root zones of influence using HDBSCAN. Remote Sensing, 13(6), 1227.
+
 {% include_relative _includes/services.md %}
 
 {% include_relative _includes/skills.md %}
