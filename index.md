@@ -19,7 +19,6 @@ I am a Ph.D. student at University of Minnesota Twin Cities. I have experience i
 - **Knowledge-guided machine learning:** transfer learning, data assimilation
 - **Climate change adaptation:** climate warming, crop yield
 - **Satellite image processing:** data fusion, land cover/use mapping
-- **Geomorphology:** river, dam, sediment
 
 ## News
 
