@@ -31,6 +31,7 @@ I am a Ph.D. student at University of Minnesota Twin Cities. I have experience i
 ## Selected Coauthor Publications
 
 <p style="text-align: justify;">
+[12] Lin C, <strong>Zhou J</strong>, Yin L, Bouabid R, Mulla D, Benami E, Jin Z*. (2024). Sub-national scale mapping of individual olive trees integrating Earth observation and deep learning. ISPRS Journal of Photogrammetry and Remote Sensing, 217, 18-31.<br />
 [11] Hu Y, Li D, Deng J*, Yue Y, <strong>Zhou J</strong>, ... & Li Y. (2024). Dune Development Dominates Flow Resistance Increase in a Large Dammed River. Water Resources Research, 60(4), e2023WR036660.<br />
 [10] Yang Q, Liu L, <strong>Zhou J</strong>, Rogers M, & Jin Z*. (2024). Predicting the growth trajectory and yield of greenhouse strawberries based on knowledge-guided computer vision. Computers and Electronics in Agriculture, 220, 108911.<br />
 [9] Liu W*, <strong>Zhou J</strong>, Ma Y, Chen S, & Luo Y. (2024). Unequal impact of climate warming on meat yields of global cattle farming. Communications Earth & Environment, 5(1), 65.<br />
