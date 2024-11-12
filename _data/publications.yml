@@ -3,7 +3,7 @@ main:
     authors: <strong>Zhou J</strong>, Zhu P, Kluger DM, Lobell DB, Jin Z*
     conference_short: GCB
     conference: Global Change Biology, 2024.
-    pdf: https://www.sciencedirect.com/science/article/abs/pii/S0924271623002927
+    pdf: https://onlinelibrary.wiley.com/doi/10.1111/gcb.17556
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/GCB-rotation-2024.png
