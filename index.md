@@ -30,7 +30,7 @@ I am a Ph.D. student at University of Minnesota Twin Cities. I have experience i
 ## Selected Coauthor Publications
 
 <p style="text-align: justify;">
-[7] Lin C, <strong>Zhou J</strong>, Yin L, Bouabid R, Mulla D, Benami E, Jin Z*. (2024). Sub-national scale mapping of individual olive trees integrating Earth observation and deep learning. ISPRS Journal of Photogrammetry and Remote Sensing, 217, 18-31.<br />
+[7] Lin C, <strong>Zhou J</strong>, Yin L, Bouabid R, Mulla D, Benami E, & Jin Z*. (2024). Sub-national scale mapping of individual olive trees integrating Earth observation and deep learning. ISPRS Journal of Photogrammetry and Remote Sensing, 217, 18-31.<br />
 [6] Yang Q, Liu L, <strong>Zhou J</strong>, Rogers M, & Jin Z*. (2024). Predicting the growth trajectory and yield of greenhouse strawberries based on knowledge-guided computer vision. Computers and Electronics in Agriculture, 220, 108911.<br />
 [5] Liu W*, <strong>Zhou J</strong>, Ma Y, Chen S, & Luo Y. (2024). Unequal impact of climate warming on meat yields of global cattle farming. Communications Earth & Environment, 5(1), 65.<br />
 [4] Yang Q, Liu L, <strong>Zhou J</strong>, Ghosh R, Peng B, Guan K, ... & Jin Z*. (2023). A flexible and efficient knowledge-guided machine learning data assimilation (KGML-DA) framework for agroecosystem prediction in the US Midwest. Remote Sensing of Environment, 299, 113880.<br />
