@@ -21,6 +21,7 @@ I am a Ph.D. student at University of Minnesota Twin Cities. I have experience i
 - **Satellite image processing:** data fusion, land cover/use mapping
 
 ## News
+- **[May. 2025]** Our paper about monitoring 3D crop growth is accepeted by Remote Sensing of Environment.
 - **[Nov. 2024]** Our paper about climate impacts on crop rotation is published in Global Change Biology.
 - **[Aug. 2024]** Our paper about sub-national scale olive mapping is published in ISPRS Journal of Photogrammetry and Remote Sensing.
 - **[Feb. 2024]** Our paper about climate warming impacts on cattle meat yields is published in Communications Earth & Environment.
@@ -30,6 +31,7 @@ I am a Ph.D. student at University of Minnesota Twin Cities. I have experience i
 ## Selected Coauthor Publications
 
 <p style="text-align: justify;">
+[8] Yang Q, <strong>Zhou J</strong>, Zhao L, Jin Z*. (2025). NeRF-LAI: A hybrid method combining neural radiance field and gap-fraction theory for deriving effective leaf area index of corn and soybean using multi-angle UAV images. Remote sensing of Environment. 
 [7] Lin C, <strong>Zhou J</strong>, Yin L, Bouabid R, Mulla D, Benami E, & Jin Z*. (2024). Sub-national scale mapping of individual olive trees integrating Earth observation and deep learning. ISPRS Journal of Photogrammetry and Remote Sensing, 217, 18-31.<br />
 [6] Yang Q, Liu L, <strong>Zhou J</strong>, Rogers M, & Jin Z*. (2024). Predicting the growth trajectory and yield of greenhouse strawberries based on knowledge-guided computer vision. Computers and Electronics in Agriculture, 220, 108911.<br />
 [5] Liu W*, <strong>Zhou J</strong>, Ma Y, Chen S, & Luo Y. (2024). Unequal impact of climate warming on meat yields of global cattle farming. Communications Earth & Environment, 5(1), 65.<br />
