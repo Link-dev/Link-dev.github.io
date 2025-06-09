@@ -16,12 +16,11 @@ I am a Ph.D. student at University of Minnesota Twin Cities. I have experience i
 
 ## Research Interests
 
-- **Knowledge-guided machine learning:** transfer learning, data assimilation
-- **Climate change adaptation:** climate warming, crop yield
-- **Satellite image processing:** data fusion, land cover/use mapping
+- **Deep learning/machine learning in Earth observations:** transfer learning, data assimilation, data fusion, 3D representation
+- **Climate change adaptation and sustainability:** climate warming, crop yield, crop mapping
 
 ## News
-- **[May. 2025]** Our paper about monitoring 3D crop growth is accepeted by Remote Sensing of Environment.
+- **[May. 2025]** Our paper about monitoring 3D crop dynamics is published in Remote Sensing of Environment.
 - **[Nov. 2024]** Our paper about climate impacts on crop rotation is published in Global Change Biology.
 - **[Aug. 2024]** Our paper about sub-national scale olive mapping is published in ISPRS Journal of Photogrammetry and Remote Sensing.
 - **[Feb. 2024]** Our paper about climate warming impacts on cattle meat yields is published in Communications Earth & Environment.
