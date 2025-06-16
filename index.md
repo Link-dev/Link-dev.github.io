@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 <p style="text-align: justify;">
-I am a Ph.D. student at University of Minnesota Twin Cities. I have experience in remote sensing image processing, including image fusion and classification. I am currently working on analyzing the impacts of climate changes on crop yields and Knowledge-guided machine learning for vegetation parameter retrieval.
+I am a Ph.D. student at University of Minnesota Twin Cities. I have experience in remote sensing image processing, including image fusion and classification. I am currently working on climate change adaptation based on sustainable agriculture solutions and Earth observations. 
 </p>
 
 ## Education
