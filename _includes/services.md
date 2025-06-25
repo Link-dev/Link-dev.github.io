@@ -7,6 +7,7 @@
   <li><a href="https://agupubs.onlinelibrary.wiley.com/journal/21698961"><autocolor>Journal of Geophysical Research: Biogeosciences</autocolor></a></li>
   <li><a href="https://www.tandfonline.com/journals/tjde20"><autocolor>International Journal of Digital Earth</autocolor></a></li>
   <li><a href="https://www.tandfonline.com/journals/tgsi20"><autocolor>Geo-spatial Information Science</autocolor></a></li>
+  <li><a href="https://www.sciencedirect.com/journal/smart-agricultural-technology"><autocolor>Smart Agricultural Technology</autocolor></a></li>
   <li><a href="https://acsess.onlinelibrary.wiley.com/journal/14350645"><autocolor>Agronomy Journal</autocolor></a></li>
   
 </ul>
