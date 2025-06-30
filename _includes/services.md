@@ -9,5 +9,4 @@
   <li><a href="https://www.tandfonline.com/journals/tgsi20"><autocolor>Geo-spatial Information Science</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/smart-agricultural-technology"><autocolor>Smart Agricultural Technology</autocolor></a></li>
   <li><a href="https://acsess.onlinelibrary.wiley.com/journal/14350645"><autocolor>Agronomy Journal</autocolor></a></li>
-  
 </ul>
