@@ -1,13 +1,13 @@
 main:
-  #- title: The reduced crop yield stability is more likely to be associated with heat rather than moisture extremes in the US Midwest
-    #authors: Liu W, <strong>Zhou J*</strong>, Luo Y, Chen S, Ma Y
-    #conference_short: EF
-    #conference: Earth's future, 2025.
+  - title: The reduced crop yield stability is more likely to be associated with heat rather than moisture extremes in the US Midwest
+    authors: Liu W, <strong>Zhou J*</strong>, Luo Y, Chen S, Ma Y
+    conference_short: EF
+    conference: Earth's future, 2025.
     #pdf: https://onlinelibrary.wiley.com/doi/10.1111/gcb.17556
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
-    #image: ./assets/img/EF-2025.png
-    #notes: Early Accept
+    image: ./assets/img/EF-2025.png
+    notes: Early Accept
     
   - title: Changes in the yield effect of the preceding crop in the US Corn Belt under a warming climate
     authors: <strong>Zhou J</strong>, Zhu P, Kluger DM, Lobell DB, Jin Z*
