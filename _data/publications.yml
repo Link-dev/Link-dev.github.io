@@ -6,7 +6,7 @@ main:
     #pdf: https://onlinelibrary.wiley.com/doi/10.1111/gcb.17556
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/EF-2025.png
+    image: ./assets/img/EF-2025.jpg
     notes: Early Accept
     
   - title: Changes in the yield effect of the preceding crop in the US Corn Belt under a warming climate
