@@ -3,7 +3,7 @@ main:
     authors: Liu W, <strong>Zhou J*</strong>, Luo Y, Chen S, Ma Y
     conference_short: EF
     conference: Earth's future, 2025.
-    #pdf: https://onlinelibrary.wiley.com/doi/10.1111/gcb.17556
+    pdf: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024EF005172
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/EF-2025.jpg
