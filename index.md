@@ -20,6 +20,7 @@ I am a Ph.D. student at University of Minnesota Twin Cities. I have experience i
 - **Climate change adaptation and sustainability:** climate warming, crop yield, crop mapping
 
 ## News
+- **[Sep. 2025]** Our paper about crop yield stability is published in Earth's future.
 - **[Jun. 2025]** Our paper about monitoring 3D crop dynamics is published in Remote Sensing of Environment.
 - **[Nov. 2024]** Our paper about climate impacts on crop rotation is published in Global Change Biology.
 - **[Aug. 2024]** Our paper about sub-national scale olive mapping is published in ISPRS Journal of Photogrammetry and Remote Sensing.
