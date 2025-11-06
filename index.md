@@ -5,12 +5,12 @@ layout: homepage
 ## About Me
 
 <p style="text-align: justify;">
-I am a Ph.D. student at University of Minnesota Twin Cities. I have experience in remote sensing image processing, including image fusion and classification. My current research interest includes climate change adaptation based on sustainable agriculture solutions and Earth observations. 
+I am a Postdoc at University of California, Berkeley. I have experience in remote sensing image processing, including image fusion and classification. My current research interest includes climate change adaptation based on sustainable agriculture solutions and Earth observations. 
 </p>
 
 ## Education
 
-- **2021-present:** Ph.D. Student, University of Minnesota
+- **2021-2025:** Ph.D., University of Minnesota
 - **2018-2021:** M.Sc., Beijing Normal University
 - **2014-2018:** B.E., China University of Geosciences
 
