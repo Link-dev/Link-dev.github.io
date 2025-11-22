@@ -10,7 +10,7 @@ I am a Postdoc at University of California, Berkeley. I have experience in remot
 
 ## Education
 
-- **2021-2025:** Ph.D., University of Minnesota
+- **2021-2025:** Ph.D., University of Minnesota, Twin Cities
 - **2018-2021:** M.Sc., Beijing Normal University
 - **2014-2018:** B.E., China University of Geosciences
 
