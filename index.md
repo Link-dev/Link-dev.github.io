@@ -31,7 +31,8 @@ I am a Postdoc at University of California, Berkeley. I have experience in remot
 ## Selected Coauthor Publications
 
 <p style="text-align: justify;">
-[8] Yang Q, <strong>Zhou J</strong>, Zhao L, Jin Z*. (2025). NeRF-LAI: A hybrid method combining neural radiance field and gap-fraction theory for deriving effective leaf area index of corn and soybean using multi-angle UAV images. Remote sensing of Environment, 328, 114844.<br />
+[9] Zang Y, <strong>Zhou J</strong>, Chen X*, ... & Chen J (2026). Integrating classifier transfer and sample transfer strategies for in-season crop mapping based on sample weighting technique. Remote sensing of Environment, 334, 115208.<br />
+[8] Yang Q, <strong>Zhou J</strong>, Zhao L, & Jin Z*. (2025). NeRF-LAI: A hybrid method combining neural radiance field and gap-fraction theory for deriving effective leaf area index of corn and soybean using multi-angle UAV images. Remote sensing of Environment, 328, 114844.<br />
 [7] Lin C, <strong>Zhou J</strong>, Yin L, Bouabid R, Mulla D, Benami E, & Jin Z*. (2024). Sub-national scale mapping of individual olive trees integrating Earth observation and deep learning. ISPRS Journal of Photogrammetry and Remote Sensing, 217, 18-31.<br />
 [6] Yang Q, Liu L, <strong>Zhou J</strong>, Rogers M, & Jin Z*. (2024). Predicting the growth trajectory and yield of greenhouse strawberries based on knowledge-guided computer vision. Computers and Electronics in Agriculture, 220, 108911.<br />
 [5] Liu W*, <strong>Zhou J</strong>, Ma Y, Chen S, & Luo Y. (2024). Unequal impact of climate warming on meat yields of global cattle farming. Communications Earth & Environment, 5(1), 65.<br />
