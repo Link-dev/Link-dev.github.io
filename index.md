@@ -43,5 +43,3 @@ I am a Postdoc at University of California, Berkeley. I have experience in remot
 </p>
 
 {% include_relative _includes/services.md %}
-
-{% include_relative _includes/skills.md %}
