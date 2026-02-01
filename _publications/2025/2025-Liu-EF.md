@@ -5,15 +5,14 @@ selected:       true
 pub:            "Earth's future"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2025"
 semantic_scholar_id: 674bb30e81cbe54dd420db14fbb03fa31d57255e  # use this to retrieve citation count
 abstract: >-
-  Photo by Pineapple Supply Co. on Unsplash. Please put a tldr (too-long-didnt-read, 1~2 sentences) of your publication here. It is not recommended to put the actual abstract here because it is usually too long to fit in. $\LaTeX$ is supported. $a=b+c$.
+  Heat is mainly linked to the changes in soybean yield stability in the US Midwest. The negative yield stability responses to heat and drought can be mitigated by the irrigation but the negative response to excess wet would be amplified. Our results highlight the importance of climate extremes on stabilizing crop yield.
 cover:          /assets/images/covers/EF-2025.jpg
 authors:
   - Weihang Liu
-  - Junxiong Zhou*
+  - Junxiong Zhou#
   - Yuchuan Luo
   - Shuo Chen
   - Yuchi Ma
