@@ -5,7 +5,6 @@ selected:       false
 pub:            "Science of Remote Sensing"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2021"
 semantic_scholar_id: a84233501925ab21ab212bcb5b6c730c1f41c67c  # use this to retrieve citation count
 abstract: >-

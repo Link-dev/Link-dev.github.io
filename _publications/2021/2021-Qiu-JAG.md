@@ -5,7 +5,6 @@ selected:       false
 pub:            "International Journal of Applied Earth Observation and Geoinformation"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2021"
 semantic_scholar_id: d9debace6474635cdaeccf09c3bc31e8e101c64f  # use this to retrieve citation count
 abstract: >-
