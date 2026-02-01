@@ -1,7 +1,7 @@
 ---
 title:          "Unequal impact of climate warming on meat yields of global cattle farming"
 date:           2024-02-03 00:01:00 +0800
-selected:       false
+selected:       true
 pub:            "Communications Earth & Environment"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'

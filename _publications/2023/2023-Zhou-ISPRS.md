@@ -1,7 +1,7 @@
 ---
 title:          "A deep transfer learning framework for mapping high spatiotemporal resolution LAI"
 date:           2023-11-02 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "ISPRS Journal of Photogrammetry and Remote Sensing"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'

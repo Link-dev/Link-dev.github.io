@@ -9,7 +9,7 @@ pub:            "IEEE Geoscience and Remote Sensing Letters"
 pub_date:       "2022"
 semantic_scholar_id: e62091bb5d2698ae5d2ef0b71711a710a401bfb7  # use this to retrieve citation count
 abstract: >-
-  A new approach integrating two microwave sensors is developed to identify the soil F/T state at a spatial resolution of 10 m in the Qinghai-Tibet engineering corridor.
+  A new approach integrating two microwave sensors is developed to identify the soil F/T state at a spatial resolution of 10 m in the Qinghai-Tibet engineering corridor. The overall accuracy of the 10-m soil F/T map achieves 84.63% and 77.09% for ascending and descending orbits based on four meteorological stations, respectively.
 cover:          /assets/images/covers/2022-Zhou-GRSL.png
 authors:
   - Xihong Cui
