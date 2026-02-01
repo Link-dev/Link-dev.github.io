@@ -7,7 +7,7 @@ pub:            "Remote Sensing of Environment"
 # pub_post:       'Under review.'
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2021"
-semantic_scholar_id: 674bb30e81cbe54dd420db14fbb03fa31d57255e  # use this to retrieve citation count
+semantic_scholar_id: 5b5f7c155f2280cecbab71ee8254d492a5366e5a  # use this to retrieve citation count
 abstract: >-
   This study compared six typical spatiotemporal fusion methods. Sensitivity to radiometric/geometric errors was explained by theoretical analysis. The findings could help users determine the method that is appropriate for different remote sensing datasets, and provide guidelines for developers in the future development of novel methods.
 cover:          /assets/images/covers/RSE-2021.jpg
