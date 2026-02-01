@@ -2,7 +2,7 @@
 title:          "Mechanisms Controlling Water-Level Variations in the Middle Yangtze River Following the Operation of the Three Gorges Dam"
 date:           2022-09-22 00:01:00 +0800
 selected:       false
-pub:            "Remote Sensing of Environment"
+pub:            "Water Resources Research"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
