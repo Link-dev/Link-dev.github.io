@@ -16,7 +16,7 @@ authors:
   - Dongfeng Li
   - Jinyun Deng#
   - Yao Yue
-  - Junxiong
+  - Junxiong Zhou
   - ...
   - Yitian Li
 links:

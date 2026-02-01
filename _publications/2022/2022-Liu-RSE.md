@@ -15,9 +15,9 @@ authors:
   - Shuaijun Liu
   - Junxiong Zhou
   - Yuean Qiu
-  - Jin Chen
+  - Jin Chen#
   - ...
-  - Hui Chen#
+  - Hui Chen
 links:
   Paper: https://www.sciencedirect.com/science/article/abs/pii/S0034425722002255
 ---
