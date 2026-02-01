@@ -1,6 +1,6 @@
 ---
 title:          "Sensitivity of six typical spatiotemporal fusion methods to different influential factors: A comparative study for a normalized difference vegetation index time series reconstruction"
-date:           2021-01-01 00:01:00 +0800
+date:           2021-01-15 00:01:00 +0800
 selected:       true
 pub:            "Remote Sensing of Environment"
 # pub_pre:        "Submitted to "
