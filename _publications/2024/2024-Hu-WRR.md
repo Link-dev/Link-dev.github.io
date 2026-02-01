@@ -10,7 +10,7 @@ pub_date:       "2024"
 semantic_scholar_id: 59c5d5eb164e7c2b63d3ca9e39e1f05c8d9abccb  # use this to retrieve citation count
 abstract: >-
   We found that dunes developed and flow resistance increased (+10%) in the post-Three Gorges Dam period. We ascertain that the development of dunes plays the dominant role in augmenting flow resistance, as evidenced by roughness height change (+29%) using a modified Van Rijn method. Ultimately, dune development was incorporated into a hydrogeomorphic numerical model of the Yangtze River to improve flow resistance quantification, and thus, the water level simulation. 
-cover:          /assets/images/covers/2024-Hu-WRR.png
+cover:          /assets/images/covers/2024-Hu-WRR.jpg
 authors:
   - Yong Hu
   - Dongfeng Li
