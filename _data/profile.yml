@@ -56,11 +56,11 @@ education:
     B.E.
   date: Sep. 2014 - Jun. 2018
 
- experience:
- - name: University of California, Berkeley
-   logo: /assets/images/badges/UCB.png
-   position: Postdoc
-   date: Nov. 2025 - present
+experience:
+- name: University of California, Berkeley
+  logo: /assets/images/badges/UCB.png
+  position: Postdoc
+  date: Nov. 2025 - present
 
 #awards:
 #- name: Award Name 2
