@@ -10,11 +10,11 @@ pub_date:       "2026"
 semantic_scholar_id: c8c83f647884ee6448f3dbbdd22754f7891f053b  # use this to retrieve citation count
 abstract: >-
   Classifier transfer and sample transfer are combined by sample weighting technique. Sample weighting is applicable to any classifiers for quick deployment.
-#cover:          /assets/images/covers/cover3.jpg
+cover:          /assets/images/covers/2026-Zang-RSE.png
 authors:
   - Yunze Zang
   - Junxiong Zhou
-  - Xuehong Chen*
+  - Xuehong Chen#
   - ...
   - Jin Chen
 links:
