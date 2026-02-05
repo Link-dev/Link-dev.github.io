@@ -35,6 +35,7 @@ education:
   logo: /assets/images/badges/UMN.png
   position: >- 
     Department of Bioproducts and Biosystems Engineering <br/>
+    Prof. Zhenong Jin and Prof. Ce Yang
     Ph.D.
   date: Sep. 2021 - Oct. 2025
   
@@ -42,6 +43,7 @@ education:
   logo: /assets/images/badges/BNU.png
   position: >- 
     Faculty of Geographical Science <br/>
+    Prof. Jin Chen
     M.S.
   date: Sep. 2018 - Jun. 2021
   
@@ -55,12 +57,18 @@ education:
 experience:
 - name: University of California, Berkeley
   logo: /assets/images/badges/UCB.png
-  position: Postdoc
+  position: >- 
+    Eric and Wendy Schmidt Center for Data Science & Environment <br/>
+    Prof. Douglas McCauley
+    Postdoc
   date: Nov. 2025 - present
 
 - name: University of Wisconsin-Madison
   logo: /assets/images/badges/UW-M.png
-  position: Research Associate
+  position: >-
+    Biological Systems Engineering <br/>
+    Prof. Licheng Liu
+    Research Associate
   date: Feb. 2026 - present
 
 #awards:
