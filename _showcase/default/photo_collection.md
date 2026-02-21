@@ -1,8 +1,8 @@
 ---
 show: true
-width: 10
+width: 12
 date: 2021-09-12 00:01:00 +0800
-height: 8
+height: 500px
 images:
 - src: assets/images/photos/SF.jpg
   title: Golden Gate Bridge, San Francisco
