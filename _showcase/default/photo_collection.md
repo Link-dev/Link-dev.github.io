@@ -1,8 +1,8 @@
 ---
 show: true
-width: 12
+width: 8
 date: 2021-09-12 00:01:00 +0800
-height: 800px
+height: 590px
 images:
 - src: assets/images/photos/St_Paul.jpg
   title: Saint Paul
