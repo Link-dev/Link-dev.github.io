@@ -12,7 +12,7 @@ abstract: >-
   PRISMA-derived traits align well with NEON AOP traits across 11 NEON sites. Strong trait changes across forest types and ecoregions reflect seasonal functional shifts.
 cover:          /assets/images/covers/2026-Ji-RSE.png
 authors:
-  - Yunze Zang
+  - Fujiang Ji
   - Ting Zheng
   - Alexey N. Shiklomanov
   - ...
