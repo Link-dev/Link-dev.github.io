@@ -432,19 +432,28 @@ img {
   flex-shrink: 0;
   width: 46px;
   height: 46px;
-  border-radius: 10px;
-  background: #fff;
-  border: 1px solid var(--border);
   display: flex;
   align-items: center;
   justify-content: center;
-  overflow: hidden;
 }
 
 .timeline-logo img {
-  width: 36px;
-  height: 36px;
+  width: 44px;
+  height: 44px;
   object-fit: contain;
+}
+
+/* Dark-colored seals need a light backing to stay legible on dark backgrounds */
+@media (prefers-color-scheme: dark) {
+  .timeline-logo {
+    background: #eceae4;
+    border-radius: 50%;
+  }
+
+  .timeline-logo img {
+    width: 36px;
+    height: 36px;
+  }
 }
 
 .timeline-body .org {
