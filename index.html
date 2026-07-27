@@ -37,6 +37,24 @@ navbar_title: Home
     </div>
 </section>
 
+{% if site.data.announcement.show %}
+<aside class="announce-card">
+    <div class="announce-icon"><i class="fas fa-bullhorn"></i></div>
+    <div class="announce-body">
+        <p class="announce-title">
+            <span class="badge badge-feature">{{ site.data.announcement.badge }}</span>
+            {{ site.data.announcement.title }}
+        </p>
+        <p class="announce-text">{{ site.data.announcement.text }}</p>
+        <p class="announce-links">
+            {% for link in site.data.announcement.links %}
+            <a href="{{ link.url }}" target="_blank"><i class="{{ link.icon }}"></i> {{ link.name }}</a>
+            {% endfor %}
+        </p>
+    </div>
+</aside>
+{% endif %}
+
 <section class="section">
     <div class="grid-2col">
         <div>

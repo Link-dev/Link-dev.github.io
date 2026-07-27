@@ -321,6 +321,86 @@ img {
 }
 
 /* --------------------------------------------------------------------------
+   Announcement banner
+   -------------------------------------------------------------------------- */
+
+.announce-card {
+  display: flex;
+  gap: 18px;
+  margin-top: 44px;
+  padding: 20px 22px;
+  border-radius: var(--radius-lg);
+  background: linear-gradient(135deg, var(--accent-soft), var(--surface));
+  border: 1px solid var(--accent-soft-border);
+}
+
+.announce-icon {
+  flex-shrink: 0;
+  width: 44px;
+  height: 44px;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--accent);
+  color: #fff;
+  font-size: 1.1rem;
+}
+
+@media (prefers-color-scheme: dark) {
+  .announce-icon {
+    color: #0e1410;
+  }
+}
+
+.announce-body {
+  min-width: 0;
+}
+
+.announce-title {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+  margin: 2px 0 6px;
+  font-family: var(--font-display);
+  font-size: 1.18rem;
+  font-weight: 600;
+}
+
+.announce-text {
+  margin: 0 0 10px;
+  font-size: 0.92rem;
+  color: var(--text-secondary);
+}
+
+.announce-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 0;
+}
+
+.announce-links a {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 5px 13px;
+  border-radius: 8px;
+  border: 1px solid var(--accent-soft-border);
+  background: var(--surface);
+  font-size: 0.8rem;
+  font-weight: 550;
+  color: var(--accent-strong);
+  transition: all 0.15s ease;
+}
+
+.announce-links a:hover {
+  background: var(--accent-soft);
+  transform: translateY(-1px);
+}
+
+/* --------------------------------------------------------------------------
    Timeline (education & experience)
    -------------------------------------------------------------------------- */
 

@@ -1,0 +1,18 @@
+# Highlight banner shown on the homepage below the hero.
+# Set `show: false` to hide it.
+show: true
+badge: New dataset
+title: UAV3DCrop
+text: >-
+  A large-scale benchmark for 3D reconstruction in repeated multi-angle UAV
+  crop surveys — RGB and depth data across crop types and growth stages.
+links:
+  - name: Project page
+    icon: fas fa-globe
+    url: https://link-dev.github.io/UAV3DCrop/
+  - name: Dataset
+    icon: fas fa-database
+    url: https://huggingface.co/datasets/Link-Dev/UAV3DCrop
+  - name: GitHub
+    icon: fab fa-github
+    url: https://github.com/Link-dev/UAV3DCrop
