@@ -8,6 +8,10 @@ positions:
   logo: /assets/images/badges/UCB.png  # Logo is optional
 
 
+meta_description: >-
+  Junxiong Zhou — Postdoc at University of California, Berkeley. Research on remote sensing,
+  climate change adaptation, sustainable agriculture, and Earth observations.
+
 email: "junxiong.zhou@berkeley.edu"
 cv_link: /assets/files/CV_Junxiong.pdf #link-to-your-cv-file
 gscholar: ywxrKakAAAAJ  # This is an example, replace it with your own Google Scholar ID

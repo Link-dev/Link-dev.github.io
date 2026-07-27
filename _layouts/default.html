@@ -4,7 +4,20 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ page.title }} · {{ site.data.profile.primary_name }}</title>
-    <meta name="description" content="{{ site.data.profile.primary_name }} — academic homepage">
+    <meta name="description" content="{{ site.data.profile.meta_description | default: site.data.profile.primary_name }}">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="{{ '/assets/images/etc/favicon.svg' | relative_url }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/images/etc/favicon-32.png' | relative_url }}">
+    <link rel="apple-touch-icon" href="{{ '/assets/images/etc/favicon-180.png' | relative_url }}">
+
+    <!-- Social sharing -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="{{ page.title }} · {{ site.data.profile.primary_name }}">
+    <meta property="og:description" content="{{ site.data.profile.meta_description | default: site.data.profile.primary_name }}">
+    <meta property="og:image" content="{{ site.url }}{{ site.data.profile.portrait_url }}">
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    <meta name="twitter:card" content="summary">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
