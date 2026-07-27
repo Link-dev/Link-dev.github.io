@@ -1,7 +1,9 @@
 ---
-layout: prompt
-title: 404 - Page Not Found
+layout: default
+title: Page Not Found
 ---
-<h1 class="mt-5">404</h1>
-<p class="lead">The requested page could not be found.</p>
-<p><a href="{{ '/' | relative_url }}">Go home</a></p>
+<div class="error-page">
+    <div class="code">404</div>
+    <p class="subtitle">The requested page could not be found.</p>
+    <p><a href="{{ '/' | relative_url }}"><i class="fas fa-arrow-left"></i> Back to home</a></p>
+</div>

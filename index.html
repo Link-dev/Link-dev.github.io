@@ -1,39 +1,114 @@
 ---
 layout: default
-title : Homepage
+title: Home
 navbar_title: Home
 ---
 
-<div class="row">
-    <div class="col-lg-3 col-md-4">
-        {% include widgets/profile_card_mini.html %}
+<section class="hero">
+    <img class="hero-portrait" src="{{ site.data.profile.portrait_url | relative_url }}" alt="{{ site.data.profile.primary_name }}">
+    <div class="hero-body">
+        <h1>{{ site.data.profile.primary_name }}</h1>
+        <p class="position">
+            {%- for pos in site.data.profile.positions -%}
+            {%- if forloop.first -%}{{ pos.name }}{%- else -%}<span class="divider">·</span><span class="affiliation">{{ pos.name }}</span>{%- endif -%}
+            {%- endfor -%}
+        </p>
+        <div class="hero-contact">
+            {% if site.data.profile.cv_link %}
+            <a class="btn-cv" href="{{ site.data.profile.cv_link | relative_url }}" target="_blank"><i class="fas fa-file-lines"></i> CV</a>
+            {% endif %}
+            {% if site.data.profile.email %}
+            <a class="icon-btn" href="mailto:{{ site.data.profile.email }}" title="Email"><i class="fas fa-envelope"></i></a>
+            {% endif %}
+            {% if site.data.profile.gscholar %}
+            <a class="icon-btn" href="https://scholar.google.com/citations?user={{ site.data.profile.gscholar }}" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+            {% endif %}
+            {% if site.data.profile.github %}
+            <a class="icon-btn" href="https://github.com/{{ site.data.profile.github }}" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
+            {% endif %}
+            {% if site.data.profile.linkedin %}
+            <a class="icon-btn" href="https://www.linkedin.com/in/{{ site.data.profile.linkedin }}" target="_blank" title="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
+            {% endif %}
+            {% if site.data.profile.orcid %}
+            <a class="icon-btn" href="https://orcid.org/{{ site.data.profile.orcid }}" target="_blank" title="ORCID"><i class="ai ai-orcid"></i></a>
+            {% endif %}
+        </div>
+        <div class="hero-bio">{{ site.data.profile.short_bio }}</div>
     </div>
-    <div class="col-lg-9 col-md-8">
+</section>
 
-        {% include widgets/profile_card_bio_only.html %}
-
-        <!-- Debugging widgets -->
-        {% include widgets/debug_repo_name.html %}
-        {% include widgets/debug_url.html %}
-
-        {% if site.data.display.homepage.show_experience %}
-            {% include widgets/experience_card.html %}
-        {% endif %}
-
-        {% if site.data.display.homepage.show_news %}
-        {% assign count_news = site.news | size %}
-        {% if count_news > 0 %}
-        {% include widgets/news_card.html limit=site.data.display.homepage.num_news %}
-        {% endif %}
-        {% endif %}
-
-        {% if site.data.display.homepage.show_selected_publications %}
-        {% assign pubs = site.publications | sort: "date" | reverse | where: "selected", true %}
-        {%
-        include widgets/publication_card.html
-        publications=pubs
-        title='<i class="fas fa-star"></i> Selected Publications'
-        %}
-        {% endif %}
+<section class="section">
+    <div class="grid-2col">
+        <div>
+            <div class="section-head">
+                <h2>Experience</h2>
+                <div class="rule"></div>
+            </div>
+            <div class="timeline">
+                {% for item in site.data.profile.experience %}
+                <div class="timeline-item">
+                    {% if item.logo %}<div class="timeline-logo"><img src="{{ item.logo | relative_url }}" alt="{{ item.name }}" loading="lazy"></div>{% endif %}
+                    <div class="timeline-body">
+                        <div class="org">{{ item.name }}</div>
+                        <div class="role">{{ item.position }}</div>
+                        <div class="dates">{{ item.date }}</div>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+        <div>
+            <div class="section-head">
+                <h2>Education</h2>
+                <div class="rule"></div>
+            </div>
+            <div class="timeline">
+                {% for item in site.data.profile.education %}
+                <div class="timeline-item">
+                    {% if item.logo %}<div class="timeline-logo"><img src="{{ item.logo | relative_url }}" alt="{{ item.name }}" loading="lazy"></div>{% endif %}
+                    <div class="timeline-body">
+                        <div class="org">{{ item.name }}</div>
+                        <div class="role">{{ item.position }}</div>
+                        <div class="dates">{{ item.date }}</div>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
     </div>
-</div>
+</section>
+
+{% assign count_news = site.news | size %}
+{% if count_news > 0 %}
+<section class="section">
+    <div class="section-head">
+        <h2>News</h2>
+        <div class="rule"></div>
+    </div>
+    <div class="news-list">
+        {% assign news_sorted = site.news | sort: "date" | reverse %}
+        {% for item in news_sorted limit: site.data.display.homepage.num_news %}
+        <div class="news-item">
+            <div class="news-date">{{ item.date | date: "%b %d, %Y" }}</div>
+            <div class="news-text">{{ item.title }}</div>
+        </div>
+        {% endfor %}
+    </div>
+</section>
+{% endif %}
+
+<section class="section">
+    <div class="section-head">
+        <h2>Selected Publications</h2>
+        <div class="rule"></div>
+        <a class="section-link" href="{{ '/publications' | relative_url }}">View all <i class="fas fa-arrow-right"></i></a>
+    </div>
+    <div class="pub-list">
+        {% assign pubs = site.publications | sort: "date" | reverse %}
+        {% for item in pubs %}
+        {% if item.selected %}
+        {% include pub_item.html item=item %}
+        {% endif %}
+        {% endfor %}
+    </div>
+</section>

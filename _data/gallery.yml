@@ -1,0 +1,20 @@
+# Photo gallery shown on the Showcase page.
+# Add a new entry with an image path and a short caption.
+- image: /assets/images/photos/Yellow_stone.jpg
+  caption: Yellowstone National Park
+- image: /assets/images/photos/SF.jpg
+  caption: San Francisco
+- image: /assets/images/photos/New_york.jpg
+  caption: New York City
+- image: /assets/images/photos/Chicago.jpg
+  caption: Chicago
+- image: /assets/images/photos/Miami.jpg
+  caption: Miami
+- image: /assets/images/photos/St_Paul.jpg
+  caption: Saint Paul
+- image: /assets/images/photos/Detriot.jpg
+  caption: Detroit
+- image: /assets/images/photos/Guang_zhou.jpg
+  caption: Guangzhou
+- image: /assets/images/photos/Yokohoma.jpg
+  caption: Yokohama
