@@ -1,6 +1,6 @@
 primary_name: "Junxiong Zhou"
 secondary_name: ""
-navbar_name: "Junxiong"
+navbar_name: "Junxiong Zhou"
 
 positions:
 - name: Postdoc
@@ -22,6 +22,17 @@ github: Link-dev
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
 linkedin: junxiong-zhou-716049222
 orcid: 0000-0001-7455-0759
+
+# Research interest tags shown on the homepage (edit freely)
+interests:
+  - name: Agricultural remote sensing & crop mapping
+    icon: fas fa-satellite
+  - name: 3D crop reconstruction from UAV imagery
+    icon: fas fa-cubes
+  - name: Climate change impacts on cropping systems
+    icon: fas fa-cloud-sun-rain
+  - name: Multi-source image fusion & machine learning
+    icon: fas fa-layer-group
 
 short_bio_text_justify: false
 short_bio: >-

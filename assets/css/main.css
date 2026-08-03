@@ -306,6 +306,21 @@ img {
   }
 }
 
+.hero-email {
+  margin: 2px 0 0;
+  font-family: var(--font-mono);
+  font-size: 0.84rem;
+  color: var(--muted);
+}
+
+.hero-email a {
+  color: var(--text-secondary);
+}
+
+.hero-email a:hover {
+  color: var(--accent-strong);
+}
+
 .hero-bio {
   margin-top: 26px;
   font-size: 1.02rem;
@@ -477,6 +492,41 @@ img {
   letter-spacing: 0.01em;
 }
 
+/* Research interests */
+
+.interests-head {
+  margin-top: 40px;
+}
+
+.interest-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.interest-list li {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 11px 16px;
+  border-radius: var(--radius);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  font-size: 0.92rem;
+  font-weight: 500;
+  color: var(--text-secondary);
+}
+
+.interest-list li i {
+  color: var(--accent);
+  font-size: 0.95rem;
+  width: 20px;
+  text-align: center;
+}
+
 /* --------------------------------------------------------------------------
    News
    -------------------------------------------------------------------------- */
@@ -542,6 +592,38 @@ img {
 .news-text a {
   font-weight: 500;
   white-space: nowrap;
+}
+
+.news-item.news-extra {
+  display: none;
+}
+
+.news-list.news-open .news-item.news-extra {
+  display: flex;
+}
+
+.news-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 14px;
+  margin-left: 26px;
+  padding: 7px 16px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  font-family: var(--font-text);
+  font-size: 0.84rem;
+  font-weight: 550;
+  color: var(--text-secondary);
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.news-toggle:hover {
+  color: var(--accent-strong);
+  border-color: var(--accent-soft-border);
+  background: var(--accent-soft);
 }
 
 /* --------------------------------------------------------------------------
@@ -714,6 +796,115 @@ a.badge-citations:hover {
   color: var(--accent-strong);
   border-color: var(--accent-soft-border);
   background: var(--accent-soft);
+}
+
+/* Featured publications (homepage) */
+
+.pub-feature-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+.feature-card {
+  display: flex;
+  flex-direction: column;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  transition: all 0.18s ease;
+}
+
+.feature-card:hover {
+  border-color: var(--border-strong);
+  box-shadow: var(--shadow-md);
+  transform: translateY(-3px);
+}
+
+.feature-cover {
+  position: relative;
+  background: var(--surface-2);
+}
+
+.feature-cover img,
+.feature-cover .cover-placeholder {
+  display: block;
+  width: 100%;
+  height: 168px;
+  object-fit: cover;
+}
+
+.feature-venue {
+  position: absolute;
+  left: 12px;
+  bottom: 12px;
+  max-width: calc(100% - 24px);
+  padding: 4px 12px;
+  border-radius: 999px;
+  background: rgba(17, 24, 19, 0.78);
+  -webkit-backdrop-filter: blur(4px);
+  backdrop-filter: blur(4px);
+  color: #fff;
+  font-size: 0.74rem;
+  font-weight: 600;
+  font-style: italic;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.feature-body {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  padding: 16px 18px 16px;
+}
+
+.feature-title {
+  font-size: 0.96rem;
+  font-weight: 600;
+  line-height: 1.45;
+  margin: 0 0 8px;
+}
+
+.feature-authors {
+  font-size: 0.8rem;
+  color: var(--muted);
+  line-height: 1.5;
+  margin: 0 0 14px;
+}
+
+.feature-authors strong {
+  color: var(--text);
+  font-weight: 650;
+}
+
+.feature-authors .author-note {
+  display: none;
+}
+
+.feature-foot {
+  margin-top: auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+}
+
+.feature-links {
+  margin-left: auto;
+  display: inline-flex;
+  gap: 12px;
+}
+
+.feature-links a {
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.feature-links a i {
+  font-size: 0.68rem;
 }
 
 /* Publications page: year groups */
@@ -923,6 +1114,10 @@ dialog.lightbox img {
   .pub-cover .cover-placeholder {
     width: 100%;
     height: 170px;
+  }
+
+  .pub-feature-grid {
+    grid-template-columns: 1fr;
   }
 
   .pub-year-group {

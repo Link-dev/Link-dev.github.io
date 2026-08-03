@@ -1,0 +1,28 @@
+{%- assign item = include.item -%}
+<article class="feature-card">
+    <div class="feature-cover">
+        {%- if item.cover -%}
+        <img src="{{ item.cover | relative_url }}" alt="{{ item.title | escape }}" loading="lazy">
+        {%- else -%}
+        <div class="cover-placeholder"></div>
+        {%- endif -%}
+        <span class="feature-venue">{{ item.pub }} · {{ item.pub_date }}</span>
+    </div>
+    <div class="feature-body">
+        <h3 class="feature-title">{{ item.title }}</h3>
+        <p class="feature-authors">{% include author_list.html authors=item.authors %}</p>
+        <div class="feature-foot">
+            {%- if item.pub_last contains "Spotlight" %}<span class="badge badge-feature"><i class="fas fa-award"></i> Spotlight</span>{% endif -%}
+            {%- if item.semantic_scholar_id %}<span data-semantic-scholar-id="{{ item.semantic_scholar_id }}"></span>{% endif -%}
+            <span class="feature-links">
+                {%- for link in item.links -%}
+                {%- if link[1].url -%}
+                <a target="{{ link[1]['target'] | default: '_blank' }}" href="{{ link[1]['url'] }}">{{ link[0] | capitalize }} <i class="fas fa-arrow-up-right-from-square"></i></a>
+                {%- else -%}
+                <a target="_blank" href="{{ link[1] }}">{{ link[0] | capitalize }} <i class="fas fa-arrow-up-right-from-square"></i></a>
+                {%- endif -%}
+                {%- endfor -%}
+            </span>
+        </div>
+    </div>
+</article>
