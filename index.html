@@ -108,6 +108,48 @@ navbar_title: Home
     </div>
 </section>
 
+{% if site.data.profile.service or site.data.profile.talks %}
+<section class="section">
+    <div class="grid-2col">
+        {% if site.data.profile.service %}
+        <div>
+            <div class="section-head">
+                <h2>Service</h2>
+                <div class="rule"></div>
+            </div>
+            <p class="service-intro">
+                <i class="fas fa-user-check"></i>
+                Journal reviewer since {{ site.data.profile.service.reviewer_since }} for:
+            </p>
+            <div class="journal-tags">
+                {% for j in site.data.profile.service.journals %}
+                <span>{{ j }}</span>
+                {% endfor %}
+            </div>
+        </div>
+        {% endif %}
+        {% if site.data.profile.talks %}
+        <div>
+            <div class="section-head">
+                <h2>Talks</h2>
+                <div class="rule"></div>
+            </div>
+            <div class="talk-list">
+                {% for talk in site.data.profile.talks %}
+                <div class="talk-item">
+                    <span class="talk-icon"><i class="fas {% if talk.type == 'Oral' %}fa-microphone{% else %}fa-image{% endif %}"></i></span>
+                    <span class="talk-name">{{ talk.name }}</span>
+                    <span class="talk-type">{{ talk.type }}</span>
+                    <span class="talk-date">{{ talk.date }}</span>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+        {% endif %}
+    </div>
+</section>
+{% endif %}
+
 {% assign count_news = site.news | size %}
 {% if count_news > 0 %}
 <section class="section">

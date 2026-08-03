@@ -34,6 +34,40 @@ interests:
   - name: Multi-source image fusion & machine learning
     icon: fas fa-layer-group
 
+# Professional service shown on the homepage
+service:
+  reviewer_since: "2022"
+  journals:
+    - Nature Food
+    - Remote Sensing of Environment
+    - Global Change Biology
+    - ISPRS Journal of Photogrammetry and Remote Sensing
+    - International Journal of Applied Earth Observation and Geoinformation
+    - Computers and Electronics in Agriculture
+    - Agricultural Water Management
+    - Agricultural and Forest Meteorology
+    - Scientific Data
+
+talks:
+  - name: "AGU Fall Meeting, New Orleans"
+    type: Oral
+    date: Dec. 2025
+  - name: "AAG Annual Meeting, Detroit"
+    type: Oral
+    date: Mar. 2025
+  - name: "AGU Fall Meeting, Washington DC"
+    type: Poster
+    date: Dec. 2024
+  - name: "AGU Fall Meeting, San Francisco"
+    type: Poster
+    date: Dec. 2023
+  - name: "AGU Fall Meeting, Chicago"
+    type: Poster
+    date: Dec. 2022
+  - name: "IEEE IGARSS, Yokohama"
+    type: Oral
+    date: Aug. 2019
+
 short_bio_text_justify: false
 short_bio: >-
   <p>
