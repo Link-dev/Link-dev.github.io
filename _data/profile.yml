@@ -71,8 +71,14 @@ talks:
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I have experience in remote sensing image processing, including image fusion and classification. 
-    My current research interest includes climate change adaptation based on sustainable agriculture solutions and Earth observations.
+    I am a postdoctoral researcher at UC Berkeley working on <strong>climate-resilient agriculture</strong> —
+    understanding how climate change affects crop and livestock systems, and how Earth observations can guide adaptation.
+    My work combines satellite and UAV remote sensing with machine learning to monitor crops in 2D, 3D, and over time,
+    and to quantify climate impacts on agricultural productivity.
+  </p>
+  <p>
+    I received my Ph.D. from the University of Minnesota (2025), where my research focused on remote sensing of
+    agriculture, including image fusion, crop mapping, and 3D crop reconstruction from multi-angle UAV imagery.
   </p>
 
 portrait_url: /assets/images/photos/Headshot.png
