@@ -1,7 +1,7 @@
 ---
 title:          "NeRF-LAI: A hybrid method combining neural radiance field and gap-fraction theory for deriving effective leaf area index of corn and soybean using multi-angle UAV images"
 date:           2025-10-01 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "Remote Sensing of Environment"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'

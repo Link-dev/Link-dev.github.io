@@ -12,6 +12,7 @@
         <h3 class="feature-title">{{ item.title }}</h3>
         <p class="feature-authors">{% include author_list.html authors=item.authors %}</p>
         <div class="feature-foot">
+            {%- if item.in_press %}<span class="badge badge-accepted"><i class="fas fa-circle-check"></i> In Press</span>{% endif -%}
             {%- if item.pub_last contains "Spotlight" %}<span class="badge badge-feature"><i class="fas fa-award"></i> Spotlight</span>{% endif -%}
             {%- if item.semantic_scholar_id %}<span data-semantic-scholar-id="{{ item.semantic_scholar_id }}"></span>{% endif -%}
             <span class="feature-links">
