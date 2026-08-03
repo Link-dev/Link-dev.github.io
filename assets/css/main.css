@@ -494,17 +494,13 @@ img {
 
 /* Research interests */
 
-.interests-head {
-  margin-top: 40px;
-}
-
 .interest-list {
   list-style: none;
   margin: 0;
   padding: 0;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
 }
 
 .interest-list li {
@@ -1210,6 +1206,10 @@ dialog.lightbox img {
   }
 
   .pub-feature-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .interest-list {
     grid-template-columns: 1fr;
   }
 

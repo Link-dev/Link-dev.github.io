@@ -74,18 +74,6 @@ navbar_title: Home
                 </div>
                 {% endfor %}
             </div>
-
-            {% if site.data.profile.interests %}
-            <div class="section-head interests-head">
-                <h2>Research Interests</h2>
-                <div class="rule"></div>
-            </div>
-            <ul class="interest-list">
-                {% for item in site.data.profile.interests %}
-                <li><i class="{{ item.icon }}"></i> {{ item.name }}</li>
-                {% endfor %}
-            </ul>
-            {% endif %}
         </div>
         <div>
             <div class="section-head">
@@ -107,6 +95,20 @@ navbar_title: Home
         </div>
     </div>
 </section>
+
+{% if site.data.profile.interests %}
+<section class="section">
+    <div class="section-head">
+        <h2>Research Interests</h2>
+        <div class="rule"></div>
+    </div>
+    <ul class="interest-list">
+        {% for item in site.data.profile.interests %}
+        <li><i class="{{ item.icon }}"></i> {{ item.name }}</li>
+        {% endfor %}
+    </ul>
+</section>
+{% endif %}
 
 {% if site.data.profile.service or site.data.profile.talks %}
 <section class="section">
