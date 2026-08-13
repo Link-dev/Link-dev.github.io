@@ -4,7 +4,7 @@ date:           2026-07-20 00:01:00 -0800
 selected:       true
 pub:            "IEEE Geoscience and Remote Sensing Magazine"
 pub_date:       "2026"
-in_press:       true
+# semantic_scholar_id:  # add once the paper is indexed by Semantic Scholar
 abstract: >-
   A review of UAV remote sensing in agriculture, tracing the evolution from 2D flat maps to 4D living models of crop fields.
 cover:          /assets/images/covers/2026-Zhou-GRSM.png
@@ -18,4 +18,7 @@ authors:
   - Vipin Kumar
   - David Mulla
   - Zhenong Jin
+
+links:
+  paper: https://doi.org/10.1109/MGRS.2026.3686306
 ---
