@@ -1,0 +1,11 @@
+# Guest-edited special issues, shown in the homepage Service section.
+# Leave `url` empty until the special issue page is online.
+- title: Satellite-Based Radiative Transfer Modeling for Vegetation
+  journal: Remote Sensing
+  url: https://www.mdpi.com/journal/remotesensing/special_issues/98OOI41CM5
+  note: "Deadline: 31 Mar 2027"
+
+- title: "AI-Driven Agricultural Remote Sensing: Methods and Applications"
+  journal: IEEE JSTARS
+  url:
+  note: Coming soon

@@ -119,6 +119,20 @@ navbar_title: Home
                 <h2>Service</h2>
                 <div class="rule"></div>
             </div>
+            {% if site.data.special_issues %}
+            <p class="service-intro">
+                <i class="fas fa-book-open"></i>
+                Guest Editor, Special Issues:
+            </p>
+            <ul class="si-list">
+                {% for si in site.data.special_issues %}
+                <li class="si-item">
+                    {% if si.url %}<a class="si-title" href="{{ si.url }}" target="_blank">{{ si.title }} <i class="fas fa-arrow-up-right-from-square"></i></a>{% else %}<span class="si-title">{{ si.title }}</span>{% endif %}
+                    <span class="si-meta"><em>{{ si.journal }}</em>{% if si.note %} · {{ si.note }}{% endif %}</span>
+                </li>
+                {% endfor %}
+            </ul>
+            {% endif %}
             <p class="service-intro">
                 <i class="fas fa-user-check"></i>
                 Journal reviewer since {{ site.data.profile.service.reviewer_since }} for:

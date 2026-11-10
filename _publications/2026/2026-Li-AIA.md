@@ -13,7 +13,7 @@ authors:
   - Lang Qiao
   - Junxiong Zhou
   - Vera Krischik
-  - Ce Yang
+  - Ce Yang#
 
 links:
   paper: https://doi.org/10.1016/j.aiia.2026.07.009

@@ -536,6 +536,48 @@ img {
   margin-right: 6px;
 }
 
+.si-list {
+  list-style: none;
+  margin: 0 0 22px;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.si-item {
+  padding: 10px 14px;
+  border-radius: 12px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--accent);
+}
+
+.si-title {
+  display: block;
+  font-weight: 600;
+  font-size: 0.92rem;
+  line-height: 1.4;
+  color: var(--text);
+}
+
+a.si-title:hover {
+  color: var(--accent-strong);
+}
+
+.si-title i {
+  font-size: 0.7rem;
+  margin-left: 4px;
+  color: var(--muted);
+}
+
+.si-meta {
+  display: block;
+  margin-top: 3px;
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+
 .journal-tags {
   display: flex;
   flex-wrap: wrap;
